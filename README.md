@@ -14,6 +14,7 @@ python app.py
 3. 打开：`http://127.0.0.1:8000/random`
 
 每次访问都会随机跳转到 `config.json` 中的一张图片。
+目录里面有个dockerfile可自行打包成docker镜像食用更佳
 
 ## 后台管理
 
